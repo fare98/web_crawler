@@ -1,6 +1,6 @@
 Based on the files you provided, here is a `README.md` file for your project:
 
-```markdown
+
 # Web Crawler
 
 A simple web crawler built with Node.js that recursively fetches all the clickable links from a given website and generates a report on the number of links found per page.
@@ -18,6 +18,7 @@ A simple web crawler built with Node.js that recursively fetches all the clickab
 ## Installation
 
 To install the necessary dependencies, run:
+
 
 ```bash
 npm install
